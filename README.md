@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![GitHub-Mark-Light](https://github.com/lleiwang/lleiwang/raw/profile/grid-snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub-Mark-Dark](https://raw.githubusercontent.com/lleiwang/lleiwang/profile/grid-snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+![GitHub-3D-Light](https://raw.githubusercontent.com/lleiwang/lleiwang/profile/3d-contrib/profile-season-animate.svg#gh-light-mode-only)
+![GitHub-3D-Dark](https://raw.githubusercontent.com/lleiwang/lleiwang/profile/3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
