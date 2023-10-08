@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![GitHub-Mark-Light](https://github.com/lleiwang/lleiwang/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub-Mark-Dark](https://raw.githubusercontent.com/lleiwang/lleiwang/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
