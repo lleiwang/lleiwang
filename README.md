@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub-Mark-Light](https://github.com/lleiwang/lleiwang/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub-Mark-Dark](https://raw.githubusercontent.com/lleiwang/lleiwang/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub-Mark-Light](https://github.com/lleiwang/lleiwang/raw/profile/grid-snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub-Mark-Dark](https://raw.githubusercontent.com/lleiwang/lleiwang/profile/grid-snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
