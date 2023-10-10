@@ -9,10 +9,13 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v4
       with:
         persist-credentials: false
-        fetch-depth: 0 
+        fetch-depth: 0
+        ref: auto/commit
+    - run: git checkout HEAD^
+
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
