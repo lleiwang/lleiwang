@@ -14,7 +14,7 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
         ref: auto/commit
-    - run: git checkout HEAD^
+    - run: git pull
 
     - name: Commit & Push changes
       uses: actions-js/push@master
