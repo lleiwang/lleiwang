@@ -14,14 +14,20 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
         ref: auto/commit
-    - run: git pull
+    - run: |
+          date > date.txt
+          git config user.name lleiwang
+          git config user.email l.l.wang@foxmail.com
+          git add .
+          git commit -m "commit date"
+          git push -f origin auto/commit
 
-    - name: Commit & Push changes
-      uses: actions-js/push@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        empty: true
-        message: "Auto Commit "
-        author_email: "l.l.wang@foxmail.com"
-        author_name: "lleiwang"
-        branch: "auto/commit"
+    # - name: Commit & Push changes
+    #   uses: actions-js/push@master
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     empty: true
+    #     message: "Auto Commit "
+    #     author_email: "l.l.wang@foxmail.com"
+    #     author_name: "lleiwang"
+    #     branch: "auto/commit"
